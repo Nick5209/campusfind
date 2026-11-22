@@ -1,0 +1,11 @@
+{
+  "name": "CampusFind",
+  "short_name": "CampusFind",
+  "description": "Campus lost and found board",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#f4f6f2",
+  "theme_color": "#143b35",
+  "icons": [{ "src": "/icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }]
+}
